@@ -16,6 +16,11 @@ import img7 from "./img17.jpg";
 import img8 from "./img18.jpg";
 import img9 from "./img19.jpg";
 import img10 from "./img20.jpg";
+import pxl1  from "./pexels (1).jpg";
+import pxl2  from "./pexels (2).jpg";
+import pxl3  from "./pexels (3).jpg";
+
+
 
 import star_icon from "./star_icon.svg"
 
@@ -96,7 +101,7 @@ export const testimonialsData = [
   {
     name: "Sophia Williams",
     title: "Interior Designer at Creative Spaces",
-    image: "/src/assets/pexels (1).jpg",
+    image: pxl1,
     alt: "Portrait of Sophia Williams",
     rating: 5,
     text: "Working with this team was an absolute pleasure. Their attention to detail and creative vision transformed our space completely!"
@@ -105,7 +110,7 @@ export const testimonialsData = [
   {
     name: "Emily Mehta",
     title: "Real Estate Developer",
-    image: "/src/assets/pexels (3).jpg",
+    image: pxl2,
     alt: "Portrait of Aarav Mehta",
     rating: 5,
     text: "From concept to execution, the team was extremely professional and creative. Their designs helped boost the value of our property."
@@ -114,7 +119,7 @@ export const testimonialsData = [
   {
     name: "Riya Sharma",
     title: "Co-Founder at Living Roots",
-    image: "/src/assets/pexels (5).jpg",
+    image: pxl3,
     alt: "Portrait of Rajiv Sharma",
     rating: 4,
     text: "Their team went above and beyond. Communication was seamless, and the outcome exceeded our expectations."
