@@ -21,7 +21,7 @@ const Header = () => {
         </h2>
         <div className="space-x-6 mt-16">
           <a href="#Projects" className="border borde-white px-8 py-3 rounded">
-            Projects
+            Projects &nbsp;
           </a>
           <a href="#Contact" className="bg-blue-500 px-8 py-3 rounded">
             Contact Us
